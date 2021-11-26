@@ -20,5 +20,3 @@ function deleteChar(){
     sum = sum.slice(0, -1);
     document.getElementById("output").innerText = sum;
 }
-
-
